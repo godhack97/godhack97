@@ -4,93 +4,136 @@ title: Profile README
 ---
 
 <div align="center">
+
+	<table>
+
+		<tr>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></td>
+
+		</tr>
+
+		<tr>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></td>
+
+			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/></td>
+
+		</tr>
+
+	</table>
+
+</div>
+
+
+<div align="center">
   <h3>Выберите язык / Select Language / Selecciona un idioma / 选择语言</h3>
 </div>
 
-<!-- Tab Buttons -->
-<div align="center">
-  <a href="#ru"><button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer;">🇷🇺 Русский</button></a>
-  <a href="#en"><button style="background-color: #2196F3; color: white; padding: 10px 20px; border: none; cursor: pointer;">🇬🇧 English</button></a>
-  <a href="#es"><button style="background-color: #FF9800; color: white; padding: 10px 20px; border: none; cursor: pointer;">🇪🇸 Español</button></a>
-  <a href="#zh"><button style="background-color: #E91E63; color: white; padding: 10px 20px; border: none; cursor: pointer;">🇨🇳 中文</button></a>
-</div>
+<!-- Spoilers for each language -->
 
----
+<details open>
+  <summary>🇷🇺 Русский</summary>
 
-## RUSSIAN 🇷🇺 <a name="ru"></a>
-### Привет! 👋
-Меня зовут Александр, и я PHP-программист с опытом коммерческой разработки с 2016 года. Мне 27 лет, и я активно работаю над своими проектами. Я очень люблю своё дело и стремлюсь развиваться дальше.
+  ### Привет! 👋
+  Меня зовут Александр, и я PHP-программист с опытом коммерческой разработки с 2016 года. Мне 27 лет, и я активно работаю над своими проектами. Я очень люблю своё дело и стремлюсь развиваться дальше.
 
-#### Основные навыки:
-- **PHP**: Работаю с различными фреймворками (Laravel, Symfony, Yii).
-- **Базы данных**: MySQL, PostgreSQL, ClickHouse.
-- **Веб-технологии**: HTML, CSS, JavaScript (Vue.js, React, NuxtJs).
-- **Серверная инфраструктура**: Nginx, Apache, Docker.
-- **CI/CD**: Jenkins, GitLab CI/CD.
+  #### Основные навыки:
+  - **PHP**: Работаю с различными фреймворками (Laravel, Symfony, Yii).
+  - **Базы данных**: MySQL, PostgreSQL, ClickHouse.
+  - **Веб-технологии**: HTML, CSS, JavaScript (Vue.js, React, NuxtJs).
+  - **Серверная инфраструктура**: Nginx, Apache, Docker.
+  - **CI/CD**: Jenkins, GitLab CI/CD.
 
-#### Мои проекты:
-- [Проект 1](#): В разработке ...
+  #### Мои проекты:
+  - [Проект 1](#): В разработке ...
 
-#### Контакты:
-- Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
-- Telegram: [@Godhack97]
+  #### Контакты:
+  - Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
+  - Telegram: [@Godhack97]
+</details>
 
----
+<details>
+  <summary>🇬🇧 English</summary>
 
-## ENGLISH 🇬🇧 <a name="en"></a>
-### Hello! 👋
-My name is Alexander, and I am a PHP developer with commercial development experience since 2016. I am 27 years old, and I actively work on my projects. I love what I do and strive to continue growing.
+  ### Hello! 👋
+  My name is Alexander, and I am a PHP developer with commercial development experience since 2016. I am 27 years old, and I actively work on my projects. I love what I do and strive to continue growing.
 
-#### Key Skills:
-- **PHP**: Work with various frameworks (Laravel, Symfony, Yii).
-- **Databases**: MySQL, PostgreSQL, ClickHouse.
-- **Web Technologies**: HTML, CSS, JavaScript (Vue.js, React, NuxtJs).
-- **Server Infrastructure**: Nginx, Apache, Docker.
-- **CI/CD**: Jenkins, GitLab CI/CD.
+  #### Key Skills:
+  - **PHP**: Work with various frameworks (Laravel, Symfony, Yii).
+  - **Databases**: MySQL, PostgreSQL, ClickHouse.
+  - **Web Technologies**: HTML, CSS, JavaScript (Vue.js, React, NuxtJs).
+  - **Server Infrastructure**: Nginx, Apache, Docker.
+  - **CI/CD**: Jenkins, GitLab CI/CD.
 
-#### My Projects:
-- [Project 1](#): In development ...
+  #### My Projects:
+  - [Project 1](#): In development ...
 
-#### Contacts:
-- Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
-- Telegram: [@Godhack97]
+  #### Contacts:
+  - Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
+  - Telegram: [@Godhack97]
+</details>
 
----
+<details>
+  <summary>🇪🇸 Español</summary>
 
-## ESPAÑOL 🇪🇸 <a name="es"></a>
-### ¡Hola! 👋
-Me llamo Alexander y soy desarrollador PHP con experiencia en desarrollo comercial desde 2016. Tengo 27 años y trabajo activamente en mis proyectos. Me encanta lo que hago y me esfuerzo por seguir creciendo.
+  ### ¡Hola! 👋
+  Me llamo Alexander y soy desarrollador PHP con experiencia en desarrollo comercial desde 2016. Tengo 27 años y trabajo activamente en mis proyectos. Me encanta lo que hago y me esfuerzo por seguir creciendo.
 
-#### Habilidades principales:
-- **PHP**: Trabajo con varios frameworks (Laravel, Symfony, Yii).
-- **Bases de datos**: MySQL, PostgreSQL, ClickHouse.
-- **Tecnologías web**: HTML, CSS, JavaScript (Vue.js, React, NuxtJs).
-- **Infraestructura del servidor**: Nginx, Apache, Docker.
-- **CI/CD**: Jenkins, GitLab CI/CD.
+  #### Habilidades principales:
+  - **PHP**: Trabajo con varios frameworks (Laravel, Symfony, Yii).
+  - **Bases de datos**: MySQL, PostgreSQL, ClickHouse.
+  - **Tecnologías web**: HTML, CSS, JavaScript (Vue.js, React, NuxtJs).
+  - **Infraestructura del servidor**: Nginx, Apache, Docker.
+  - **CI/CD**: Jenkins, GitLab CI/CD.
 
-#### Mis proyectos:
-- [Proyecto 1](#): En desarrollo ...
+  #### Mis proyectos:
+  - [Proyecto 1](#): En desarrollo ...
 
-#### Contactos:
-- Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
-- Telegram: [@Godhack97]
+  #### Contactos:
+  - Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
+  - Telegram: [@Godhack97]
+</details>
 
----
+<details>
+  <summary>🇨🇳 中文</summary>
 
-## 中文 🇨🇳 <a name="zh"></a>
-### 你好！👋
-我叫亚历山大，是一名自2016年起拥有商业开发经验的PHP开发人员。我今年27岁，积极从事我的项目工作。我非常热爱我的事业，并努力不断进步。
+  ### 你好！👋
+  我叫亚历山大，是一名自2016年起拥有商业开发经验的PHP开发人员。我今年27岁，积极从事我的项目工作。我非常热爱我的事业，并努力不断进步。
 
-#### 主要技能：
-- **PHP**：使用各种框架（Laravel、Symfony、Yii）。
-- **数据库**：MySQL、PostgreSQL、ClickHouse。
-- **Web技术**：HTML、CSS、JavaScript（Vue.js、React、NuxtJs）。
-- **服务器基础设施**：Nginx、Apache、Docker。
-- **CI/CD**：Jenkins、GitLab CI/CD。
+  #### 主要技能：
+  - **PHP**：使用各种框架（Laravel、Symfony、Yii）。
+  - **数据库**：MySQL、PostgreSQL、ClickHouse。
+  - **Web技术**：HTML、CSS、JavaScript（Vue.js、React、NuxtJs）。
+  - **服务器基础设施**：Nginx、Apache、Docker。
+  - **CI/CD**：Jenkins、GitLab CI/CD。
 
-#### 我的项目：
-- [项目1](#)：正在开发中 ...
+  #### 我的项目：
+  - [项目1](#)：正在开发中 ...
 
-#### 联系方式：
-- Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
-- Telegram: [@Godhack97]
+  #### 联系方式：
+  - Email: [chelpuck0@gmail.com](mailto:chelpuck0@gmail.com)
+  - Telegram: [@Godhack97]
+</details>
