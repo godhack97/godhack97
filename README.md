@@ -22,8 +22,7 @@
 </div>
 
 ---
-layout: default
-title: Profile README
+
 ---
 
 
